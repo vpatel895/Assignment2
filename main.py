@@ -1,5 +1,5 @@
 from SavingAccount import SavingAccount
-from Checking_account import CheckingAccount
+from CheckingAccount import CheckingAccount
 
 # Creating instances of the SavingAccount and CheckingAccount
 savingAccount1 = SavingAccount("Victor", 15000, 600, "85621358", "796320145", 0.02)
